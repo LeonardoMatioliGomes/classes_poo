@@ -1,4 +1,4 @@
-# Titulo ou Arte do Projeto
+# Calculo dos triangulos
 ## Versão: 1.0 
 ## Status do Projeto: ✔️ Concluído 
 
