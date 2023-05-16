@@ -1,4 +1,4 @@
-# Cálculo dos Triângulos
+# Calculo dos triangulos
 ## Versão: 1.0 
 ## Status do Projeto: ✔️ Concluído 
 
@@ -7,8 +7,6 @@
 
 🔹 Funcionalidades
 
-🔹 Distribuição
-
 🔹 Como rodar a aplicação
 
 🔹 Linguagens, dependências e libs utilizadas
@@ -16,14 +14,14 @@
 ...
 
 ## Descrição do projeto
-Descrição breve do projeto compondo um paragrafo ou dois.
+usado para calcular as medias dos lados de dois triangulos e o outro é feito para calcular o valor do triangulo.
 
 ## Funcionalidades ⚙️
 ✔️ Funcionalidade 1
-==> calcula médias
+==> calcular a média de dois triangulos e calcular o valor de 1 triangulo
 
 ## Como rodar a aplicação 
-Explicação de como se deve utilizar o projeto.
+ao inicializar o código, digite as medidas do triangulo (por exemplo: 3 2 1) e inicie.
 
 ## Linguagens, dependencias e libs utilizadas 📚
 
